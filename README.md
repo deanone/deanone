@@ -1,4 +1,4 @@
-### Hi, I am Athanasios Salamanis! 👋
+### Hi, I am Athanasios Salamanis!
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-c14438?style=plastic-square&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/athanasios-salamanis)
 [![Scholar Badge](https://img.shields.io/badge/-Scholar-c14438?style=plastic-square&logo=google&logoColor=white&color=4285F4)](https://scholar.google.com/citations?user=f7hypjsAAAAJ](https://scholar.google.gr/citations?user=osI-EsIAAAAJ&hl=el&oi=ao))
 

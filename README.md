@@ -9,5 +9,5 @@ I am a senior technical R&D manager and software architect at the [Centre for Re
 For more details about my work you can visit my [personal webpage](https://www.asalamanis.com/).
 \
 \
-![Github stats](https://github-readme-stats.vercel.app/api?username=deanone&theme=dark&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=deanone&theme=dark&layout=compact)
+[//]: #![Github stats](https://github-readme-stats.vercel.app/api?username=deanone&theme=dark&show_icons=true&count_private=true)
+[//]: #![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=deanone&theme=dark&layout=compact)

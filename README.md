@@ -9,4 +9,3 @@ I am a software architect and senior technical R&D manager at the [Centre for Re
 For more details about my work you can visit my [personal webpage](https://www.asalamanis.com/).
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deanone&show_icons=true&theme=dracula&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deanone&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

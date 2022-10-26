@@ -6,4 +6,6 @@
 I am a software architect and senior technical R&D manager at the [Centre for Research & Technology Hellas (CERTH)](https://www.certh.gr/) in Thessaloniki, Greece. As a software engineer and architect, I have been working for many years in all phases of the software development lifecycle (SDLC). As a technical manager, I have undertaken all tasks related to the execution of large-scale IT projects (e.g., identifying business needs and collaborating with stakeholders), while at the same time I have the privilege to guide fellow engineers and scientists through challenging engineering and research projects. Moreover, I have conducted research in the intersection of three scientific fields: big data analytics, time series forecasting and high performance computing.
 \
 \
+In addition, I am very much interested on the open source software development process. I have recently joined the open source community as a committer and project lead of the [Eclipse OpenSmartCLIDE](https://projects.eclipse.org/projects/ecd.opensmartclide) project.
+
 For more details about my work you can visit my [personal webpage](https://www.asalamanis.com/).

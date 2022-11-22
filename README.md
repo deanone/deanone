@@ -7,5 +7,3 @@ I am a software architect and senior technical R&D manager at the [Centre for Re
 \
 \
 In addition, I am very much interested on the open source software development process. I have recently joined the open source community as a committer and project lead of the [Eclipse OpenSmartCLIDE](https://projects.eclipse.org/projects/ecd.opensmartclide) project.
-
-For more details about my work you can visit my [personal webpage](https://www.asalamanis.com/).

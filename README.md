@@ -3,7 +3,10 @@
 [![Scholar Badge](https://img.shields.io/badge/-Scholar-c14438?style=plastic-square&logo=google&logoColor=white&color=4285F4)](https://scholar.google.com/citations?user=f7hypjsAAAAJ](https://scholar.google.gr/citations?user=osI-EsIAAAAJ&hl=el&oi=ao))
 
 ## 🚀 About Me
-I am a software architect and senior technical R&D manager at the [Centre for Research & Technology Hellas (CERTH)](https://www.certh.gr/) in Thessaloniki, Greece. As a software engineer and architect, I have been working for many years in all phases of the software development lifecycle (SDLC). As a technical manager, I have undertaken all tasks related to the execution of large-scale IT projects (e.g., identifying business needs and collaborating with stakeholders), while at the same time I have the privilege to guide fellow engineers and scientists through challenging engineering and research projects. Moreover, I have conducted research in the intersection of three scientific fields: big data analytics, time series forecasting and high performance computing.
+I am a senior software engineer working as software development team lead at the [Pfizer Center for Digital Innovation (CDI)](https://centerfordigitalinnovation.pfizer.com/) in Thessaloniki, Greece. I have been working in the software development industry for almost 10 years now. What always excites me is to write clean code that works and makes people lives a little better. 
 \
 \
-In addition, I am very much interested on the open source software development process. I have recently joined the open source community as a committer and project lead of the [Eclipse OpenSmartCLIDE](https://projects.eclipse.org/projects/ecd.opensmartclide) project.
+In the past, I have conducted research in the intersection of three scientific fields: big data analytics, time series forecasting and high performance computing.
+\
+\
+Finally, I am very much interested in the open source software development process. I joined the open source community as a committer and project lead of the [Eclipse OpenSmartCLIDE](https://projects.eclipse.org/projects/ecd.opensmartclide) project in October 2022.

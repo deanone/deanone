@@ -3,7 +3,7 @@
 [![Scholar Badge](https://img.shields.io/badge/-Scholar-c14438?style=plastic-square&logo=google&logoColor=white&color=4285F4)](https://scholar.google.com/citations?user=f7hypjsAAAAJ](https://scholar.google.gr/citations?user=osI-EsIAAAAJ&hl=el&oi=ao))
 
 ## 🚀 About Me
-I am a senior software engineer working as a software development team lead at the [Pfizer Center for Digital Innovation (CDI)](https://centerfordigitalinnovation.pfizer.com/) in Thessaloniki, Greece. I have been working in the software development industry for almost 10 years now. What always excites me is to write clean code that works and makes people lives a little better. 
+I am a senior software engineer, currently working as a software development team lead at the [Pfizer Center for Digital Innovation (CDI)](https://centerfordigitalinnovation.pfizer.com/) in Thessaloniki, Greece. I have been working in the software development industry for almost 10 years now. What always excites me is to write clean code that works and makes people lives a little better. 
 \
 \
 In the past, I have conducted research in the intersection of three scientific fields: big data analytics, time series forecasting and high performance computing.

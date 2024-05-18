@@ -6,7 +6,7 @@
 I am a tech lead, currently working as a senior software engineering manager at Oracle.
 \
 \
-I have been working in the software development industry for more than 10 years. What always excites me is to write clean code that works and makes people's lives better. 
+I have been working in the software development industry for more than 10 years. What always excites me is creating software that works and makes people's lives better. 
 \
 \
-In addition, I have conducted research in the intersection of three scientific fields: big data analytics, time series forecasting and high performance computing. My research work has been cited 335 times as of May 2024.
+As a side endeavour, I have conducted research in the intersection of three scientific fields: big data analytics, time series forecasting and high performance computing. My research work has been cited 339 times as of May 2024.

@@ -6,7 +6,13 @@
 I am an engineer and I love software. Throughout my career, I have held many positions in the software development industry, starting as a clueless freshman software engineer back in 2013.
 \
 \
+Back in 2019, I made the conscious decision to jump from the IC career path to the engineering management career path, mainly due to my strong believe that great software products require first and foremost great people and great teams. Technology comes second.
+\
+\
 My motto is simple: build software that makes people's lives better.
 \
 \
-In the past, I have conducted research in the intersection of three scientific fields: big data analytics, time series forecasting and high performance computing. I strongly believe that science is the only thing that can save us humans from ourselves.
+Last but not least, I have conducted research in the intersection of three scientific fields: big data analytics, time series forecasting and high-performance computing (HPC).
+\
+\
+I strongly believe that science is the only thing that can save us humans from ourselves.

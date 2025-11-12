@@ -6,9 +6,6 @@
 I am an engineer and I love software. Throughout my career, I have held many positions in the software development industry, starting as a clueless freshman software engineer back in 2013.
 \
 \
-Currently, I work as a senior software engineering manager at Oracle.
-\
-\
 My motto is simple: build software that makes people's lives better.
 \
 \

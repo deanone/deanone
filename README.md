@@ -12,7 +12,10 @@ Back in 2019, I made the conscious decision to jump from the IC career path to t
 My motto is simple: build software that makes people's lives better.
 \
 \
-Last but not least, I have conducted research in the intersection of three scientific fields: big data analytics, time series forecasting and high-performance computing (HPC).
+I have conducted research in the intersection of three scientific fields: big data analytics, time series forecasting and high-performance computing (HPC).
+\
+\
+Currently, I am working as a director of product engineering at Pfizer.
 \
 \
 I strongly believe that science is the only thing that can save us humans from ourselves.

@@ -18,4 +18,4 @@ I have conducted research in the intersection of three scientific fields: big da
 Currently, I am working as a director of product engineering at Pfizer.
 \
 \
-I strongly believe that science is the only thing that can save us humans from ourselves.
+I strongly believe that science is the only thing that can save us from ourselves.
